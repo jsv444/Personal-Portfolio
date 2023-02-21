@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 3em;
+}
+
+.navbar-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+}
+
+.navbar-menu a {
+  text-decoration: none;
+  margin: 0 1.5em;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+cursor: pointer;
+}
+
+.socials {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    flex-direction: row;
+    list-style: none;
+
+}
+.socials li {
+    text-decoration: none;
+    margin: 0 1em;
+    margin-right: 5em;
+    margin-top: 2p;
+}
