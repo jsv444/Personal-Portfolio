@@ -1,0 +1,20 @@
+.wrapper-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    margin-top: 10em;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+
+.wrapper-header h1 {
+    margin-bottom: 2px;
+    font-weight: 300;
+    font-size: xx-large;
+  }
+
+  .wrapper-header h2 {
+    font-weight: 300;
+  }
