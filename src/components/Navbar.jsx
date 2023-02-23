@@ -21,10 +21,10 @@ function Navbar() {
       <nav className="navbar">
         <ul className="navbar-menu">
           <li>
-            <a href="">HOME</a>
+            <a href="/">HOME</a>
           </li>
           <li>
-            <a href="">ABOUT</a>
+            <a href="/about">ABOUT</a>
           </li>
           <li className="button">
             <ThemeProvider theme={theme}>
