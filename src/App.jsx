@@ -7,7 +7,7 @@ import Header from "./components/Header";
 import About from "./components/About";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [countyBoi, setCountyBoi] = useState(0);
 
   return (
     <>
